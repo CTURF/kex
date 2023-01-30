@@ -1,0 +1,3 @@
+#define random_boundedl1 NAMESPACEGENERIC(random_boundedl1)
+#define random_boundedl1_nonzero NAMESPACEGENERIC(random_boundedl1_nonzero)
+#define random_coin NAMESPACEGENERIC(random_coin)

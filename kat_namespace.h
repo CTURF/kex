@@ -1,0 +1,8 @@
+#define alice_private_keys_kat NAMESPACEBITS(alice_private_keys_kat)
+#define bob_private_keys_kat NAMESPACEBITS(bob_private_keys_kat)
+
+#define alice_public_keys_kat NAMESPACEBITS(alice_public_keys_kat)
+#define bob_public_keys_kat NAMESPACEBITS(bob_public_keys_kat)
+
+#define alice_shared_secrets NAMESPACEBITS(alice_shared_secrets)
+#define bob_shared_secrets NAMESPACEBITS(bob_shared_secrets)

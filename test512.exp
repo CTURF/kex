@@ -1,0 +1,75 @@
+uintbig_iszero
+fp_sqrt
+elligator
+skgen
+validate
+xISOG
+kat
+nike
+trying alice bs=0 gs=0, bob bs=0 gs=0
+trying alice bs=2 gs=1, bob bs=0 gs=0
+trying alice bs=2 gs=2, bob bs=0 gs=0
+trying alice bs=2 gs=3, bob bs=0 gs=0
+trying alice bs=2 gs=4, bob bs=0 gs=0
+trying alice bs=2 gs=5, bob bs=0 gs=0
+trying alice bs=2 gs=6, bob bs=0 gs=0
+trying alice bs=2 gs=7, bob bs=0 gs=0
+trying alice bs=2 gs=8, bob bs=0 gs=0
+trying alice bs=4 gs=1, bob bs=0 gs=0
+trying alice bs=4 gs=2, bob bs=0 gs=0
+trying alice bs=4 gs=3, bob bs=0 gs=0
+trying alice bs=4 gs=4, bob bs=0 gs=0
+trying alice bs=4 gs=5, bob bs=0 gs=0
+trying alice bs=4 gs=6, bob bs=0 gs=0
+trying alice bs=4 gs=7, bob bs=0 gs=0
+trying alice bs=4 gs=8, bob bs=0 gs=0
+trying alice bs=4 gs=9, bob bs=0 gs=0
+trying alice bs=4 gs=10, bob bs=0 gs=0
+trying alice bs=4 gs=11, bob bs=0 gs=0
+trying alice bs=4 gs=12, bob bs=0 gs=0
+trying alice bs=4 gs=13, bob bs=0 gs=0
+trying alice bs=4 gs=14, bob bs=0 gs=0
+trying alice bs=4 gs=15, bob bs=0 gs=0
+trying alice bs=4 gs=16, bob bs=0 gs=0
+trying alice bs=6 gs=2, bob bs=0 gs=0
+trying alice bs=6 gs=3, bob bs=0 gs=0
+trying alice bs=6 gs=4, bob bs=0 gs=0
+trying alice bs=6 gs=5, bob bs=0 gs=0
+trying alice bs=6 gs=6, bob bs=0 gs=0
+trying alice bs=6 gs=7, bob bs=0 gs=0
+trying alice bs=6 gs=8, bob bs=0 gs=0
+trying alice bs=6 gs=9, bob bs=0 gs=0
+trying alice bs=6 gs=10, bob bs=0 gs=0
+trying alice bs=6 gs=11, bob bs=0 gs=0
+trying alice bs=6 gs=12, bob bs=0 gs=0
+trying alice bs=6 gs=13, bob bs=0 gs=0
+trying alice bs=6 gs=14, bob bs=0 gs=0
+trying alice bs=6 gs=15, bob bs=0 gs=0
+trying alice bs=8 gs=2, bob bs=0 gs=0
+trying alice bs=8 gs=3, bob bs=0 gs=0
+trying alice bs=8 gs=4, bob bs=0 gs=0
+trying alice bs=8 gs=5, bob bs=0 gs=0
+trying alice bs=8 gs=6, bob bs=0 gs=0
+trying alice bs=8 gs=7, bob bs=0 gs=0
+trying alice bs=8 gs=8, bob bs=0 gs=0
+trying alice bs=8 gs=9, bob bs=0 gs=0
+trying alice bs=8 gs=10, bob bs=0 gs=0
+trying alice bs=8 gs=11, bob bs=0 gs=0
+trying alice bs=10 gs=3, bob bs=0 gs=0
+trying alice bs=10 gs=4, bob bs=0 gs=0
+trying alice bs=10 gs=5, bob bs=0 gs=0
+trying alice bs=10 gs=6, bob bs=0 gs=0
+trying alice bs=10 gs=7, bob bs=0 gs=0
+trying alice bs=10 gs=8, bob bs=0 gs=0
+trying alice bs=10 gs=9, bob bs=0 gs=0
+trying alice bs=12 gs=3, bob bs=0 gs=0
+trying alice bs=12 gs=4, bob bs=0 gs=0
+trying alice bs=12 gs=5, bob bs=0 gs=0
+trying alice bs=12 gs=6, bob bs=0 gs=0
+trying alice bs=12 gs=7, bob bs=0 gs=0
+trying alice bs=14 gs=4, bob bs=0 gs=0
+trying alice bs=14 gs=5, bob bs=0 gs=0
+trying alice bs=14 gs=6, bob bs=0 gs=0
+trying alice bs=16 gs=4, bob bs=0 gs=0
+trying alice bs=16 gs=5, bob bs=0 gs=0
+trying alice bs=18 gs=5, bob bs=0 gs=0
